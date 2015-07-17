@@ -12,7 +12,6 @@ import info.androidhive.listviewfeed.SlidingTab.MainActivity;
  * Created by levietruyn on 24/06/2015.
  */
 public class LoginActivity extends Activity {
-
 private Button btnLogin;
     @Override
     public void onCreate(Bundle savedInstanceState) {
